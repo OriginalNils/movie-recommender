@@ -1,0 +1,8 @@
+# .gitignore
+__pycache__/
+.venv/
+venv/
+.ipynb_checkpoints/
+*.csv
+*.zip
+*.egg-info
